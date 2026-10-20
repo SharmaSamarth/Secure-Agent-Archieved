@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Multi-Session Agent
 
 > **Archived project.** This is an old project . It is kept here for reference only and may not work with current versions of its dependencies.
@@ -93,3 +94,6 @@ Redis is optional. Without it, the app uses a simple in-memory limiter and notes
 - Outside triggers such as webhooks. The agent only responds to messages sent from the app.
 - User roles. Every user has the same permissions and can only see their own data.
 - Staying signed in after a browser refresh. Users sign in again, and their conversation is restored from the database.
+=======
+# Secure-Agent-Archieved
+>>>>>>> 1d5cf60483362fe43611031b708fa4def2faf506
